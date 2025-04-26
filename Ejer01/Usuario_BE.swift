@@ -8,4 +8,7 @@ class Usuario_BE {
         self.Nombres = nombres
         self.Correo = uCorreo
     }
+    
+    
+    
 }
